@@ -1,0 +1,9 @@
+Stone1Vids RoundStone
+Stone2Vids RoughStone
+Stone3Vids.png NormalStone
+Stone4Vids.png SideStone
+Stone5Vids.png TallStone
+Stone6Vids.png WideStone
+Stonetall.png StoneSlab
+Tree1 Tree1
+Tree5 Tree5

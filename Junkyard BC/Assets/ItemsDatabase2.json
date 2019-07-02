@@ -1,0 +1,29 @@
+{
+	"itmeCollection":
+	[
+		{
+			"ID":0,
+			"Name":"Small Healing Potion",
+			"stackable":false,
+			"Value":5,
+			"slug":"potion_B/outline_black_outside/potion_B_red_full",
+			"type":"Consumabel"
+		},
+		{
+			"ID":1,
+			"Name":"Golden Apple2",
+			"stackable":true,
+			"Value":5,
+			"slug":"ga",
+			"type":"Consumabel"
+		},
+		{
+			"ID":2,
+			"Name":"Golden Apple3",
+			"stackable":true,
+			"Value":5,
+			"slug":"ga",
+			"type":"Consumabel"
+		}
+	]
+}

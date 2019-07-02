@@ -1,0 +1,18 @@
+0
+Golden Apple1
+true
+5
+ga
+Consumabel
+1
+Golden Apple2
+true
+5
+ga
+Consumabel
+2
+Golden Apple3
+true
+5
+ga
+Consumabel
